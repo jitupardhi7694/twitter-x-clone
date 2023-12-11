@@ -1,0 +1,107 @@
+.twitter-img {
+    height: 270px;
+    width: 292px;
+    margin: 183px 95px;
+}
+
+.twit-heading1 {
+    color: white;
+    font-size: 4rem;
+    font-weight: 900;
+    margin: 65px 23px;
+}
+
+.twit-heading2 {
+    color: white;
+    margin: 35px 23px;
+    font-weight: 700;
+}
+
+.google-bg {
+    background-color: white;
+    width: 50%;
+    border-radius: 30px;
+    margin: 35px 35px 0 23px;
+    padding: 4px 5px;
+}
+
+.apple-bg {
+    background-color: white;
+    width: 50%;
+    border-radius: 30px;
+    margin: 10px 35px 10px 23px;
+    padding: 5px;
+}
+
+.already-account {
+    margin: 40px 0 0 0;
+}
+
+.create-bg {
+    background-color: rgb(39, 151, 243);
+    width: 50%;
+    border-radius: 30px;
+    margin: 10px 35px 10px 23px;
+    padding: 5px;
+}
+
+.account-bg {
+    background-color: transparent;
+    width: 50%;
+    border-radius: 30px;
+    margin: 10px 35px 10px 23px;
+    padding: 5px;
+    border: 1px solid rgb(131, 130, 130);
+}
+
+.account-h {
+    font-weight: 500;
+}
+
+.login-h {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 0;
+}
+
+.para {
+    color: rgb(126, 126, 126);
+    font-size: 0.7rem;
+    margin: 0 35px 10px 23px;
+}
+
+.a-h {
+    font-size: 1rem;
+    color: white;
+}
+
+.create-h {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 0;
+    color: white;
+}
+
+.break-or {
+    place-items: center;
+    display: flex;
+    margin: 0 35px 10px 23px;
+
+}
+
+.border1 {
+    width: 116px;
+    border-bottom: 1px solid rgb(146, 142, 142);
+}
+
+.or-h {
+    color: white;
+    padding: 0 13px;
+}
+
+.border2 {
+    width: 116px;
+    border-bottom: 1px solid rgb(146, 142, 142);
+}
